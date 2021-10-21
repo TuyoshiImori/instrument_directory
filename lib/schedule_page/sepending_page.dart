@@ -68,7 +68,7 @@ class _RepairPageState extends State<RepairPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('リペア・備品購入履歴'),
+        title: Text('リペア・備品購入履歴　'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
